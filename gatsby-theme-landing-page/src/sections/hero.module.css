@@ -28,6 +28,7 @@
   .root {
     flex-direction: row;
     align-items: center;
+    /* background-image: ; */
   }
 
   .content {
@@ -35,6 +36,8 @@
   }
 
   .image {
-    width: 50%;
+    /* width: 50%; */
+    object-fit: cover;
+    /* max-width: 100%; */
   }
 }

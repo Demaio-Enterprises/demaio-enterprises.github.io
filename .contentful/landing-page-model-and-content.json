@@ -2906,10 +2906,10 @@
           "en-US": "Hero"
         },
         "heading": {
-          "en-US": "Create custom landing pages using Gatsby and Contentful"
+          "en-US": "custom landing pages using Gatsby and Contentful"
         },
         "secondaryHeading": {
-          "en-US": "Gatsby Starter Landing Page"
+          "en-US": "DeMaio Enterprises"
         },
         "content": {
           "en-US": [
@@ -2986,7 +2986,7 @@
           "en-US": "Home > Hero > Content"
         },
         "primaryText": {
-          "en-US": "This starter-theme combo makes it easy to quickly create custom landing pages in your Gatsby site from Contentful. Use this as a starting point to create custom components that match your visual branding.\n"
+          "en-US": "combo makes it easy to quickly create custom landing pages in your Gatsby site from Contentful. Use this as a starting point to create custom components that match your visual branding.\n"
         },
         "image": {
           "en-US": {
